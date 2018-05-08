@@ -69,7 +69,7 @@ Package.on_use(function(api, where) {
 
 Package.on_test(function(api) {
   api.use([
-    'useraccounts:bootstrap',
+    'c316:bootstrap4',
     'useraccounts:core@1.14.2',
   ]);
 
