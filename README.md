@@ -14,7 +14,7 @@ Learn more [here](http://useraccounts.meteor.com) or have a look at a [live demo
 
 Adding this package with `meteor add useraccounts:bootstrap` does not add any other packages providing Bootstrap. This is to let you choose the flavour you prefer, being it compiled, less, sass, or from CDN!
 
-At the moment it is up to date with Bootstrap 3.3.0.
+Uses Bootstrap 4
 
 
 ## Contributing
