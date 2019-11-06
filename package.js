@@ -1,7 +1,7 @@
 Package.describe({
   summary: 'Accounts Templates styled for Twitter Bootstrap.',
   version: '1.14.2',
-  name: 'c316:bootstrap4',
+  name: 'santoshsrinivas79:accounts-templates-insipia',
   git: 'https://github.com/meteor-useraccounts/bootstrap.git',
 });
 
